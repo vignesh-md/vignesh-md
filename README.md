@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vignesh-md, a Data Analyst by profession, musician by passion
+- 👋 Hi, I’m Vignesh, a Data Analyst by profession, musician by passion
 - 👀 I’m interested in working with Data (analyze, derive meaningful insights, visualizing them)
-- 🌱 I’m currently learning MIR (Musical Information Retrieval)
+- 🌱 I’m currently learning MIR (Musical Information Retrieval) and Computational Music
 - 💞️ I’m looking to collaborate on anything related to Data Science with Audio processing (preferrably involving music)
 - 📫 How to reach me vigneshsubramanianmd13@outlook.com
